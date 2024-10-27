@@ -1,38 +1,80 @@
-Fist - ???
-- ???
+//// PHOBOS ////
+Fist - Pickaxe
+* A slow, but hard-hitting melee weapon that gets slightly faster with Berserk, and hits WAY harder. Genuinely viable for fighting tougher foes like Arch-viles.
 
-Chainsaw - ???
-- ???
+Chainsaw - ??? (Right now, Shield Saw & Jupiter Smasher)
+* ??? (Right now, a faster-firing Beam Magnum with a blocking alt-fire... Not great.)
 
 Pistol - Beam Magnum
-- Infinite ammo pistol. About as weak as the original, with derandomized damage. Might need to reload later, or regenerate ammo.
+* Infinite ammo pistol. About as weak as the original, with derandomized damage. Alt-fire for automatic pistol tap.
 
 Shotgun - "Slayer's Companion" Riot Shotgun
-- Auto-shotty with a bit of a kick to it. Drum-fed, 12 shots in the mag, reloads its whole mag at once. NO CASINGS, since the drum also covers the ejection port!!!
+* Auto-shotty with a bit of a kick to it. Drum-fed, 12 shots in the mag, reloads its whole mag at once. NO CASINGS, since the drum also covers the ejection port!!! Alt-fire for sticky bombs.
 
-Super Shotgun - "big ass quad shotgun" - mengo
-- big ass quad shotgun lol
+Super Shotgun - Quad Shotgun
+* Four barrels. Primary fires all four, secondary fires just two at a time. Can reload each set of two individually.
 
-Chaingun - Heavy Cannon?
-- Projectile-based chaingun. Big boolets, big damage.
+Chaingun - Nailgun
+* Fires nails from both barrels, alternating between them. Alt-fire for a burst shot with two ricocheting nails that deal extra damage.
 
-Minigun - ???
-- ???
+Minigun - Super Nailgun
+* Fires two nails at a time from each barrel. Quake's Super Nailgun... I guess. I'd like to change it at some point...
 
-Rocket Launcher - ???
-- ???
+Rocket Launcher - ??? (Right now, Rocket Launcher)
+* ??? (Right now, just a Rocket Launcher)
 
-Grenade Launcher - ???
-- ???
+Grenade Launcher - ??? (Right now, Grenade Launcher)
+* ??? (Right now, just a Grenade Launcher)
 
-Plasma Rifle - ???
-- ???
+Plasma Rifle - ??? (Right now, Plasma Rifle)
+* ??? (A slower, but slightly more powerful, plasma rifle that fires red plasma balls.)
 
-Railgun - ???
-- ???
+Railgun - ??? (Right now, reskinned default railgun)
+* ??? (Right now, reskinned default railgun)
 
-BFG9000 - ???
-- ???
+BFG9000 - Plasma Repeater
+* Like a big plasma chaingun that fires multi-colored plasma balls at a rapid pace. They can bounce off of floors and ceilings, just like the beta BFG.
 
 BFG10K - ???
-- ???
+* ???
+
+//// DEIMOS ////
+
+Fist - ???
+* ???
+
+Chainsaw - ???
+* ???
+
+Pistol - ???
+* ???
+
+Shotgun - "Crusher" Pump Shotgun
+* No-reload pump shotgun that can have more shells pushed into it by alt-firing. The more shells (max 5), the bigger the shot.
+
+Super Shotgun - Over-and-under Shotgun
+* A slightly faster SSG with maybe a tighter spread that can have each barrel fired individually.
+
+Chaingun - Heavy Cannon?
+* Projectile-based chaingun. Big boolets, big damage.
+
+Minigun - ???
+* ???
+
+Rocket Launcher - ???
+* ???
+
+Grenade Launcher - ???
+* ???
+
+Plasma Rifle - ???
+* ???
+
+Railgun - ???
+* ???
+
+BFG9000 - Plasma Bomb(?)
+* A large plasma ball that absorbs things shot at it, and turns into a multi-hit explosion when it hits a surface. Probably also does ripper damage.
+
+BFG10K - ???
+* ???
